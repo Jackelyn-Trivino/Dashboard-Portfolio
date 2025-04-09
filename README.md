@@ -14,10 +14,10 @@ ___
 - This page was designed and created entirely from scratch in which I designed and created all the DAX utilized in the dashboard.
 
 **Tools Used** 
-Power BI, DAX, Power Query
+- Power BI, DAX, Power Query
 
 **Business Impact**
-The business was able to use and leverage the information provided in the dashboard to better see how their hiring process was structured, areas of impovement, and future steps which was vital to their growing business.
+- The business was able to use and leverage the information provided in the dashboard to better see how their hiring process was structured, areas of impovement, and future steps which was vital to their growing business.
 
 **Confidentiality**
-Real Data and any identifying features were removed for Confidentiality of the Client's business. 
+- Real Data and any identifying features were removed for Confidentiality of the Client's business. 
